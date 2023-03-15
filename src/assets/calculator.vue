@@ -114,14 +114,14 @@ html {
 .display {
     background-color: grey;
     color: #fff;
+    border: none;
     border-radius: 15px 15px 0 0;
     font-size: 36px;
     font-weight: 300;
-    width: 17.5%;
+    width: 320px;
     height: 70px;
     line-height: 70px;
     overflow: hidden;
-    padding: 0 20px;
     text-align: right;
     text-overflow: ellipsis;
 }
