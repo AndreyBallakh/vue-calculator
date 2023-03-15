@@ -200,7 +200,7 @@ html {
     background-color: #ffa94d;
 }
 
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
     .calculator {
         height: 60%;
         width: 90%;
@@ -226,5 +226,5 @@ html {
     .decimal {
         font-size: 36px;
     }
-}
+} */
 </style>

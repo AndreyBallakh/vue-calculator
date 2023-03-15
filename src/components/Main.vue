@@ -41,4 +41,11 @@ import CalculatorHistory from '@/assets/calculator-history.vue'
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr;
 }
+@media screen and (max-width: 760px) {
+  .main{
+    place-items: center;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+}
 </style>

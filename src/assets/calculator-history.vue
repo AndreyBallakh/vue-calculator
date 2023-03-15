@@ -108,5 +108,10 @@
 .button:active {
   top: 1px;
 }
+}
+@media screen and (max-width: 760px) {
+    .button{
+        margin: 30px 0;
     }
+}
 </style>
